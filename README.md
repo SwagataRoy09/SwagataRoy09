@@ -1,11 +1,17 @@
 <h1 align="center">Hi Myself SWAGATA ROY</h1>
 <h3 align="center">A passionate developer who is keen at learning and loves to make new things.</h3><br><br>
 
-- 🌱 I’m currently learning **FLUTTER,ANDROID DEVELOPMENT USING JAVA**
-
+- 🌱 I’m currently learning **Flutter and Android Development using Java**
 
 - 📫 How to reach me **swagataroy.dgp@gmail.com**
 <br>
+<h2> My Coding Profile links : </h2>
+<UL>
+<LI><a href="https://auth.geeksforgeeks.org/user/swagataroydgp/practice/">GFG</A>
+<LI><A HREF ="https://leetcode.com/Swagataroy/">LEETCODE</A>
+</UL>
+<BR>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swagataroy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swagataroy09" height="30" width="40" /></a>
