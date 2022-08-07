@@ -8,7 +8,7 @@
 <h2> My Coding Profile links : </h2>
 <UL>
 <LI><a href="https://auth.geeksforgeeks.org/user/swagataroydgp/practice/">GFG</A>
-<LI><A HREF ="https://leetcode.com/Swagataroy/">LEETCODE</A>
+
 </UL>
 <BR>
 
